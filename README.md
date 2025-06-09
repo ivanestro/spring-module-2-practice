@@ -40,7 +40,7 @@ This is a practice question for assignment 2 and the understanding of:
 
 - ✓ Question 4: Write a program that converts 2, 5, and 10 inches to millimeters (1 inch = 25.4 mm).
 
-- Question 5: Update the previous program to accept the lengths in inches from the user. 
+- ✓ Question 5: Update the previous program to accept the lengths in inches from the user. 
 
 - Question 6: Write a program to compute and output the circumference of a circle having a radius of 3.2 inches
 
